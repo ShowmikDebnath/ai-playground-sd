@@ -1,0 +1,11 @@
+Grammar Guru is an AI powered grammar checking application built by Showmik Debnath.
+
+The project uses FastAPI as the backend framework and Groq API with LLaMA 3.3 model for AI processing. The frontend is built with simple HTML, CSS and JavaScript.
+
+Grammar Guru helps students learn from their grammar mistakes instead of just correcting them. When a user submits text, the AI identifies mistakes, provides corrections, and explains why each mistake is wrong.
+
+The application is deployed on Render for the backend API and Netlify for the frontend website. It uses a free tier hosting which means the backend may sleep after inactivity and take 1-2 minutes to wake up.
+
+The maximum text length allowed is 1000 characters per request to manage API costs effectively. The project does not currently have a user login system or database, keeping it simple and focused on the core grammar checking feature.
+
+Future plans for Grammar Guru include adding user authentication, saving mistake history, tracking improvement over time, and potentially adding a mobile application.
