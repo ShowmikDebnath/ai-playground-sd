@@ -94,6 +94,32 @@ uvicorn experiment_3.ai_api:app --reload
 ```
 Then open: http://127.0.0.1:8000/docs
 
+
+## Experiment 7 — RAG (Retrieval Augmented Generation)
+
+**What I learned:**
+- What RAG is and why it's needed
+- Document loading and splitting into chunks
+- Text embeddings using HuggingFace
+- Vector database with ChromaDB
+- Semantic search (find similar meaning)
+- Building a Q&A bot on custom documents
+
+**How it works:**
+Document → Split → Embed → Store in ChromaDB
+
+Question → Embed → Search → Get relevant chunks
+
+chunks + question → AI → Answer
+
+
+**Tech used:**
+- LangChain
+- ChromaDB
+- HuggingFace sentence-transformers
+- Groq + LLaMA 3.3
+
+
 ---
 
 ## 📝 What I Learned
