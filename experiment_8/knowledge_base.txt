@@ -1,0 +1,17 @@
+Showmik Debnath is a Computer Science graduate from Leading University, Sylhet, Bangladesh with a CGPA of 3.81 out of 4.0.
+
+He works at Dorik Inc. as a Technical Support Engineer. Dorik is a website builder platform.
+
+Showmik has published an IEEE-indexed research paper on ML-based depression detection which won the Best Technical Presentation Award at ICCIT 2024.
+
+He has built several projects including Grammar Guru, an AI powered grammar checker that helps students learn from their mistakes. Grammar Guru uses FastAPI, Groq API and LLaMA 3.3 model.
+
+He also built Bazar API, a complete e-commerce backend using FastAPI and PostgreSQL with JWT authentication.
+
+Showmik is passionate about AI engineering and SaaS entrepreneurship. His long term goal is to launch a SaaS startup using AI technology.
+
+He is currently learning AI Agent development following a structured roadmap that includes Python, FastAPI, LLM APIs, Prompt Engineering, LangChain, Vector Databases, RAG, and AI Agents.
+
+His GitHub username is ShowmikDebnath and he actively maintains his projects on GitHub.
+
+He has an IELTS score of 6.5 with no band below 6.0.
